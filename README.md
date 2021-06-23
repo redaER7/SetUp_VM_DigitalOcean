@@ -20,3 +20,5 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+
+![Algorithm schema](./images/image1.png)
