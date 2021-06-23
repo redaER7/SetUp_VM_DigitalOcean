@@ -1,10 +1,14 @@
 ## Table of contents
-* [General info](#general-info)
+* [Create VM aka droplet](#Create-VM-aka-droplet)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General info
-This project is simple Lorem ipsum dolor generator.
+Linux-Remote Server are Linux-based virtual machines (VMs) that run on top of virtualized hardware
+VMs are managed using a terminal and SSH. You’ll need to have an SSH client and, optionally, an SSH key pair. Clients generally authenticate either using passwords (which are less secure and not recommended) or SSH keys (which are very secure and strongly recommended).
+We recommend you use SSH keys to connect to your VM.
+
+## Create VM aka droplet
+Create DigitalOcean account from https://cloud.digitalocean.com/registrations/new
 	
 ## Technologies
 Project is created with:
